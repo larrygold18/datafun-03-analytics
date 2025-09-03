@@ -1,0 +1,4 @@
+# Starter dependencies for analytics
+pandas
+matplotlib
+seaborn
